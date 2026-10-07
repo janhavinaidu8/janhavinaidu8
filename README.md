@@ -73,14 +73,14 @@ Built and deployed an application using Docker and Kubernetes.
 
 📈 Currently Learning
 
-"Kubernetes" • "Terraform" • "AWS" • "GitHub Actions" • "DevSecOps"
+"AWS" • "Docker" • "Kubernetes" • "Terraform" • "Jenkins" • "GitHub Actions" • "DevSecOps"
 
 ---
 
 🤝 Let's Connect
 
-- 💼 LinkedIn: "Your LinkedIn" (https://linkedin.com/in/yourusername)
-- 📧 Email: "your-email@example.com" (mailto:janhavinaidu8@gmail.com)
+- 💼 LinkedIn: "https://www.linkedin.com/in/janhavi-naidu-bb8082337/"
+- 📧 Email: "janhavinaidu8@gmail.com"
 
 
 ---
