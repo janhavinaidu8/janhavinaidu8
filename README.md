@@ -1,4 +1,4 @@
-👋 Hi, I'm Janvi Naidu
+👋 Hi, I'm Janhavi Amit Naidu
 
 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
@@ -80,8 +80,8 @@ Built and deployed an application using Docker and Kubernetes.
 🤝 Let's Connect
 
 - 💼 LinkedIn: "Your LinkedIn" (https://linkedin.com/in/yourusername)
-- 📧 Email: "your-email@example.com" (mailto:your-email@example.com)
-- 🌐 Portfolio: "Your Portfolio" (https://yourwebsite.com)
+- 📧 Email: "your-email@example.com" (mailto:janhavinaidu8@gmail.com)
+
 
 ---
 
